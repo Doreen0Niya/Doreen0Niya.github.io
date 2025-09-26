@@ -4,23 +4,23 @@ layout: single
 permalink: /about/
 
 # Includes author profile in sidebar
-author: First M. Last
+author: Niya Shao
 author_profile: true
 
 classes: wide
 # If you want a header image
 header:
-  overlay_color: "#222222" #"#5e616c"
+  overlay_color: "#32a86b" #"#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/image.png
   caption: "Park Reserve in Pensacola, 2/2/2025"
 excerpt: I am a gopher tortoise working as a geoscientist at the University of Florida. My research focuses on rock fracture and erosion driven by climate and water forces. I am passionate about understanding how these processes shape our environment.
 ---
 * PhD, University of Florida
-  * Thesis: <i>"Investigating the interactions between geological processes and environmental change: A study of rock formation, erosion, and landscape evolution"</i>
-* BSc, Augustana College, <i>Geology</i>
+* BSc, University of California, San Diego, <i>Computer Science, Geology</i>
+* BA, Tacoma Community College
 
-<b>Contact: <a href="mailto:email@example.com">gopher@example.com</a></b> 
+<b>Contact: <a href="mailto:niyashao@ufl.edu">niyashao@ufl.edu</a></b> 
 
 <figure class="third">
     <img src="{{ site.baseurl }}/assets/images/waterfall.png" alt="Waterfall" class="test-class">
