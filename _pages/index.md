@@ -4,17 +4,17 @@ title: " "
 permalink: /
 hidden: true
 header:
-  overlay_color: "#222222" #"#5e616c"
+  overlay_color: "#32a86b" #"#5e616c"
   overlay_filter: "0.2"
   overlay_image: assets/images/image.png
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
   caption: "Park reserve in Pensacola, 2/2/2025"  
-excerpt: Passionate geoscientist dedicated to exploring Earth's dynamic landscapes and understanding how natural processes and human activities shape our planet. <br />
+excerpt: TODO <br />
 
 # Includes author profile in sidebar
-author: First M. Last
+author: Niya Shao
 author_profile: true
 
 #  
@@ -46,11 +46,3 @@ feature_row:
 ---
 
 {%include feature_row%}
-
-Example for extra information that can be display on the landing page
-
-> **Now Recruiting:**  
-> I am seeking motivated PhD students and postdoctoral researchers interested in geomorphology, landscape evolution, and environmental change. If you are passionate about fieldwork, modeling, or remote sensing, please [contact me](mailto:your.email@domain.com) with your CV and research interests.
-
-> **Seeking Graduate Opportunities:**  
-> I am an upcoming graduate actively searching for PhD programs in geosciences. My interests include geomorphology, landscape evolution, and environmental change. If your group is recruiting or you know of relevant opportunities, please check out my [CV](/cv/)—I would love to connect!
