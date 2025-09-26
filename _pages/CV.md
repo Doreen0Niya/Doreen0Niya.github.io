@@ -4,13 +4,13 @@ layout: single
 permalink: /CV/
 
  #Includes author profile in sidebar 5
-author: First M. Last
+author: Niya Shao
 author_profile: true
 
 header:
-  overlay_color: "#222222" #"#5e616c"
+  overlay_color: "#32a86b" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/field2.png
+  overlay_image: /assets/images/test.png
   caption: 
 ---
  
@@ -19,5 +19,5 @@ header:
 
 <iframe src="{{ '/assets/pdfs/cv-template.pdf' | relative_url }}" width="100%" height="600px">
   This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="{{ '/assets/pdfs/Shanti Penprase CV_Sept 2025_forweb.pdf' | relative_url }}">Download PDF</a>.
+  <a href="{{ '/assets/pdfs/NiyaShao_CV_Sep2025.pdf' | relative_url }}">Download PDF</a>.
 </iframe>
