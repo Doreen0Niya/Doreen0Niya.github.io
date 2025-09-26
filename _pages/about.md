@@ -14,7 +14,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/image.png
   caption: "Park Reserve in Pensacola, 2/2/2025"
-excerpt: I am a gopher tortoise working as a geoscientist at the University of Florida. My research focuses on rock fracture and erosion driven by climate and water forces. I am passionate about understanding how these processes shape our environment.
+excerpt: I am a Ph.D. student studying the glacial dynamics and subglacial conditions using stochastic methods.
 ---
 * PhD, University of Florida
 * BSc, University of California, San Diego, <i>Computer Science, Geology</i>
