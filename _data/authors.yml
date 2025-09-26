@@ -1,21 +1,21 @@
 # /_data/authors.yml
 
-First M. Last:
-  name             : "First M. Last"
+Niya Shao:
+  name             : "Niya Shao"
   avatar           : "/assets/images/about.png" # path of avatar image, e.g. "/assets/images/avatar.png"
-  bio              : "<br/>Department of Earth & Planetary Sciences, University of Florida<br/>"
+  bio              : "<br/>Department of Geological Sciences, University of Florida<br/>"
   location         : Gainesville, FL
-  email            : example@email.com
+  email            : niyashao@ufl.edu
   links:
     - label: "University website"
       icon: "fas fa-solid fa-link"
       url: "https://www.geology.ufl.edu/"
     - label: "ORCID"
       icon: "fab fa-brands fa-orcid"
-      url: "https://orcid.org/"
+      url: "https://orcid.org/0009-0003-3298-7719"
     - label: "Google Scholar"
       icon: "fab fa-brands fa-google"
-      url: https://scholar.google.com/
+      url: "https://scholar.google.com/citations?user=1RXR1AsAAAAJ"
     - label: "GitHub"
       icon: "fab fa-brands fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Doreen0Niya"
